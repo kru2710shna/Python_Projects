@@ -17,17 +17,17 @@ def speedcheck():
 
 
 
-lab = Label(sp, text="Internet Sped Test" , font = ("Time new Roman" , 30 ) ,bg = "Blue",fg = "White" )
+lab = Label(sp, text="Internet Speed Test" , font = ("Time new Roman" , 30 ) ,bg = "Blue",fg = "White" )
 lab.place(x=60, y=20, height  = 50 , width = 380)# Your tkinter GUI code here
 
-lab= Label(sp, text="Downloading Spped " , font = ("Time new Roman" , 30 ) ,bg = "Black",fg = "White" )
+lab= Label(sp, text="Downloading Speed " , font = ("Time new Roman" , 30 ) ,bg = "Black",fg = "White" )
 lab.place(x=60, y=150, height  = 50 , width = 380)# Your tkinter GUI code here
 
 
 lab_d= Label(sp, text="00" , font = ("Time new Roman" , 30 ) ,bg = "Black",fg = "White" )
 lab_d.place(x=60, y=280, height  = 50 , width = 380)# Your tkinter GUI code here
 
-lab= Label(sp, text="Uploading Spped " , font = ("Time new Roman" , 30 ) ,bg = "Black",fg = "White" )
+lab= Label(sp, text="Uploading Speed " , font = ("Time new Roman" , 30 ) ,bg = "Black",fg = "White" )
 lab.place(x=60, y=410, height  = 50 , width = 380)# Your tkinter GUI code here
 
 
