@@ -1,4 +1,4 @@
-# Python projectS
+# Python projects
 
 This repository contains a collection of Python projects, each serving a specific purpose. Below is a brief description of each project and the Python modules and libraries used:
 
